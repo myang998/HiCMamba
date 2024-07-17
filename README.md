@@ -49,7 +49,7 @@ python test.py
 - Matplotlib 3.7.5
 - tqdm 4.66.2
 
-The causal-conv1d and mamba_ssm are strongly recommended downloaded from the [BaiduNest Link](https://pan.baidu.com/s/1Tibn8Xh4FMwj0ths8Ufazw?pwd=uu5k) provided by [VM-UNet](https://github.com/JCruan519/VM-UNet). And then install the packages using:
+The causal-conv1d and mamba_ssm are strongly recommended downloaded from the [BaiduNetdisk Link](https://pan.baidu.com/s/1Tibn8Xh4FMwj0ths8Ufazw?pwd=uu5k) provided by [VM-UNet](https://github.com/JCruan519/VM-UNet). And then install the packages using:
 ```
 pip install xxx.whl
 ```
