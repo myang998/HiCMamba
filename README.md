@@ -27,7 +27,7 @@ python -m data_processing.Preprocess -c GM12878
 python -m data_processing.Preprocess -c K562
 ```
 
-* optional
+# optional
 The well preprocessed data is accessible at [Google Drive](https://drive.google.com/file/d/1V1eYC9RcCEz6jTrOZ3-9DhNQBk34X8f6/view?usp=drive_link). You can use the preprocessed data through downloading the data and then moving this data into data_processing directory.
 
 ## Run HiCMamba
